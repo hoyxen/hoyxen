@@ -16,7 +16,6 @@ You can click the Preview link to take a look at your changes.
 - <b><a href="https://https://twitter.com/souojoaosoares">My Twitter</a></b>
 - <b><a href="https://https://instagram.com/souojoaosoares/">My Instagram</a></b>
 - <b><a href="https://upgradezone.fun/">UpgradeZone Community</a></b>
-<br />
 
 ### Languages and Tools:
 
