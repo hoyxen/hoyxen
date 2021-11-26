@@ -6,11 +6,8 @@ You can click the Preview link to take a look at your changes.
 
 ## About me
 
-- 👋 Hi, I’m @hoyxen
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Hi, I'm João Soares, with the username hoyxen, I'm just another internet lover!
+
 ---
 
 ### Connect with me:
