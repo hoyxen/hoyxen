@@ -4,9 +4,9 @@ You can click the Preview link to take a look at your changes.
 --->
 ---
 
-## About me
+## About me:
 
-👋 Hi, I'm João Soares, with the username hoyxen, I'm just another internet lover!
+👋 Hi, I'm <b>João Soares</b>, with the username <b>hoyxen</b>, I'm just another internet lover!
 
 ---
 
