@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
 <br>
 [<img align="left" alt="Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 <br>
-<a alt="https://upgradezone.fun/"/>]UpgradeZone Community Website</a>
+<a alt="https://upgradezone.fun/">UpgradeZone Community Website</a>
 <br>
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][UZdiscord] <- UpgradeZone Community Discord
 
