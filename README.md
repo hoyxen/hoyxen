@@ -1,30 +1,17 @@
+<!---
+hoyxen/hoyxen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+---
+
+## About me
+
 - 👋 Hi, I’m @hoyxen
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-
-<!---
-hoyxen/hoyxen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-### Hey  👋
-
 ---
-
-## About me
-
-- I'm 15y
--  I'm Portuguese
-
----
-
-### Music 🎧
-
-[<img src="https://spotify-now-playing-nine-psi.vercel.app/api/spotify-playing" alt="Spotify Playing" width="350" />](https://open.spotify.com/user/ntb0k1bfpam0v9b9xgt17x5zx?si=a9b4d829f6a14283)
-
-
 
 ### Connect with me:
 
