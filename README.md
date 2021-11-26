@@ -47,8 +47,8 @@ You can click the Preview link to take a look at your changes.
 
 <br />
 
-<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=TheYurei&theme=dark&show_icons=true&hide_border=true" />
-<img align="right" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheYurei&langs_count=100&theme=dark" />
+<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=hoyxen&theme=dark&show_icons=true&hide_border=true" />
+<img align="right" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoyxen&langs_count=100&theme=dark" />
 
 [website]: https://theyurei.github.io/home/
 [twitter]: https://twitter.com/_Gh0s7c_
