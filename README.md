@@ -10,18 +10,13 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
-### Connect with me:
+### Useful Links:
 
 [<img align="left" alt="https://hoyxen.space/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-
-<br />
-
-### UpgradeZone Community:
-
-[<img align="left" alt="https://upgradezone.fun/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][UZwebsite]
-[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][UZdiscord]
+[<img align="left" alt="https://upgradezone.fun/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][UZwebsite] <- UpgradeZone Community Website
+[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][UZdiscord] <- UpgradeZone Community Discord
 
 
 <br />
