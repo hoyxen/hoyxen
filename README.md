@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 
 ### Useful Links:
 
-- <a href="https://upgradezone.fun/">UpgradeZone Community</a>
+- <b><a href="https://upgradezone.fun/">UpgradeZone Community</a></b>
 
 <br />
 
