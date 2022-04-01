@@ -13,8 +13,8 @@ You can click the Preview link to take a look at your changes.
 ### Useful Links:
 
 - <b><a href="https://steamcommunity.com/id/hoyxen/">My Steam</a></b>
-- <b><a href="https://twitter.com/souojoaosoares">My Twitter</a></b>
-- <b><a href="https://instagram.com/souojoaosoares/">My Instagram</a></b>
+- <b><a href="https://twitter.com/iamjoaosoares">My Twitter</a></b>
+- <b><a href="https://instagram.com/iamjoaosoares/">My Instagram</a></b>
 - <b><a href="https://upgradezone.fun/">UpgradeZone Community</a></b>
 
 ### Languages and Tools:
